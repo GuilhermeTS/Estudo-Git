@@ -1,17 +1,21 @@
+# Git
 git init     - Inicia repositório git
-git add      - Adiciona os arquivos no histórico do git
-git commit   - 
-git push     -
-git clone    - 
-git status   - Mostra o status do desenvolvimento
+git add      - Adiciona ou atualiza os arquivos no repositório do git
+git commit   - Adiciona ou atualiza a linha do tempo do repositório
+git push     - Enviaa alterações para repositório remoto
+git clone    - Clona um projeto
+git status   - Mostra o estado das alterações do desenvolvimento
 git log      - Mostra os commits feitos
 git show     - Mostra as alterações feitas nos commits
-git merge    - Adiciona as funcionalidades das ramificações na branch master
-git branch   - Cria e visualiza novas branchs
-git checkout - Troca de branch
-git remote   - 
+git merge    - Uni alterações feitas na branch
+git branch   - Gerencia novas branchs
+git checkout - Manipula as linhas do tempo
+
+# Comandos
 git branch -D <nome-branch>
-git remote add
-git push -u origin
+git remote add <enderço-do repositorio-remoto>
+git push -u origin <nome-da-branch>
 git config credential.helper store
 git commit -am <mensagem>
+git checkout <log> -- <arquivo>
+git git checkout -- <arquivo>
