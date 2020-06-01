@@ -1,0 +1,6 @@
+git init   - Inicia repositório git
+git add    - Adiciona os arquivos no histórico do git
+git commit - 
+git push   -
+git status - Mostra o status do desenvolvimento
+git log    - Mostra os commits feitos
