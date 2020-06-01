@@ -5,3 +5,4 @@ git push   -
 git status - Mostra o status do desenvolvimento
 git log    - Mostra os commits feitos
 git show   - Mostra as alterações feitas nos commits
+git merge   - Adiciona as funcionalidades das ramificações na branch master
