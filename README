@@ -1,8 +1,17 @@
-git init   - Inicia repositório git
-git add    - Adiciona os arquivos no histórico do git
-git commit - 
-git push   -
-git status - Mostra o status do desenvolvimento
-git log    - Mostra os commits feitos
-git show   - Mostra as alterações feitas nos commits
-git merge   - Adiciona as funcionalidades das ramificações na branch master
+git init     - Inicia repositório git
+git add      - Adiciona os arquivos no histórico do git
+git commit   - 
+git push     -
+git clone    - 
+git status   - Mostra o status do desenvolvimento
+git log      - Mostra os commits feitos
+git show     - Mostra as alterações feitas nos commits
+git merge    - Adiciona as funcionalidades das ramificações na branch master
+git branch   - Cria e visualiza novas branchs
+git checkout - Troca de branch
+git remote   - 
+git branch -D <nome-branch>
+git remote add
+git push -u origin
+git config credential.helper store
+git commit -am <mensagem>
